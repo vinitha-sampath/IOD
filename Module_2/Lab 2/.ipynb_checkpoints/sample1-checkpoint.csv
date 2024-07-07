@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+633,1,1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,C
+577,1,2,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,S
+652,1,2,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,S
+583,0,2,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,,S
+153,0,3,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,,S

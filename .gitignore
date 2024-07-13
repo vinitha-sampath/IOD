@@ -9,6 +9,9 @@ mydatabase.db/*
 SQL.ipynb/*
 Test.txt/*
 test_db.sqlite/*
+%.ipynb/*
+
+
 
 
 

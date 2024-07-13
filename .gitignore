@@ -11,9 +11,6 @@ SQL.ipynb/
 Test.txt/
 test_db.sqlite/
 
-# Ignore all files with the .ipynb extension within any directory
-*.ipynb
-
 
 
 

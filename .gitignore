@@ -1,15 +1,18 @@
-DATA/*
-Answers/*
-Notes/*
-.ipynb_checkpoints/*
-Module_1/*
-Module_2/*
-Module_3/*
-mydatabase.db/*
-SQL.ipynb/*
-Test.txt/*
-test_db.sqlite/*
-%.ipynb/*
+# Ignore directories
+DATA/
+Answers/
+Notes/
+.ipynb_checkpoints/
+Module_1/
+Module_2/
+Module_3/
+mydatabase.db/
+SQL.ipynb/
+Test.txt/
+test_db.sqlite/
+
+# Ignore all files with the .ipynb extension within any directory
+*.ipynb
 
 
 

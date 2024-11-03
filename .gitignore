@@ -1,8 +1,9 @@
 # Ignore directories
 
-All labs/
+All Labs modules/
 Answers/
 DATA/
+LSTM/
 Notes/
 .ipynb_checkpoints/
 Module_1/
@@ -13,6 +14,8 @@ Module_5/
 Module_6/
 Module_7/
 Module_8/
+Module_9/
+Module_10/
 mydatabase.db/
 SQL.ipynb/
 Test.txt/
